@@ -126,4 +126,4 @@ class Rectangle:
         if value >= 0:
             return True
 
-        return False 
+        return False
